@@ -1,0 +1,17 @@
+<operaciones>
+    <operacion>
+        <tipo>suma</tipo>
+        <operando1>2</operando1>
+        <operando2>3</operando2>
+    </operacion>
+    <operacion>
+        <tipo>resta</tipo>
+        <operando1>25</operando1>
+        <operando2>3</operando2>
+    </operacion>
+    <operacion>
+        <tipo>multiplicacion</tipo>
+        <operando1>6</operando1>
+        <operando2>32</operando2>
+    </operacion>
+</operaciones>
